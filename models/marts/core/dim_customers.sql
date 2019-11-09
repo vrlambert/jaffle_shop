@@ -34,4 +34,3 @@ final as (
 )
 
 select * from final
-{{foo}}
