@@ -1,7 +1,7 @@
 {% set payment_methods = ['credit_card', 'coupon', 'bank_transfer', 'gift_card'] %}
 
 with orders as (
-
+--cool comments bro
     select * from {{ ref('stg_orders') }}
 
 ),
