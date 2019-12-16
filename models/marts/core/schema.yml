@@ -83,3 +83,7 @@ models:
         description: Amount of the order (AUD) paid for by gift card
         tests:
           - not_null
+  
+  - name: customers_named_michael
+
+  - name: count_of_customers_name_michael
